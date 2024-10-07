@@ -38,4 +38,4 @@ Visualize tweets by hour ⏰
 Implement an emoticon sentiment detector 😊😡
 Find the exact state of tweet locations 🌆
 🙌 Acknowledgements
-Developed by [Linos Darikai]. Thanks to Aditi Muralidharan and John DeNero for their support!
+Developed by Linos Darikai. Thanks to Aditi Muralidharan and John DeNero for their support!
